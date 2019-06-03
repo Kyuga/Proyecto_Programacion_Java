@@ -1,0 +1,45 @@
+╔═══════════════════════════════════════════════╗
+║Empresa: BEE-WIDTH-YOO           Empleado: Andares Seguí
+║DNI: 80085182B                   Nº: 29
+╠═══════════════════════════════════════════════╝
+║                            DEVENGOS                                           
+║                                                                 
+║Salario base: 1350,00 €
+║Complementos salariales:
+║                                                                 
+║                                                                 
+║                                                                 
+║                                                Total devengado: 1350,00 €
+╠═══════════════════════════════════════════════╗
+║                            DEDUCCIONES                                        
+║                                   Bases             Tipo            
+║Contingencias comunes:          1575,00 €            4,70 %          74,03 €
+║Desempleo:                      1775,00 €            1,55 %          27,51 €
+║Formacion profesional:          1775,00 €            0,10 %          1,77 €
+║Horas extraordinarias:           200,00 €            4,70 %          9,40 €
+║                                                                 
+║Total aportaciones:                                                  112 €
+║                                                                 
+║IRPF:                           1350,00 €            30.0 %          405,00 €
+║                                                                 
+║                                                                 
+║                                                Total a deducir:    517,00 €
+║                                                Total a percibir:   833,00 €
+╠═══════════════════════════════════════════════╣
+║                            BASES DE COTIZACION                                
+║                                                                 
+║Bases de cotización por contingencias comunes (BCcc): 
+║Remuneración mensual: 1350€
+║Prorrata pagas extra: 225€          Tipo                Aportación empresa
+║            TOTAL:    1575€         23,60 %                 371,70 €
+║                                                                 
+║                                    Base 
+║                                    1775 € 
+║                      AT y EP:                   1,65 %     29,29 €
+║                    Desempleo:                   5,50 %     97,62 €
+║                           FP:                   0,60 %     10,65 €
+║                       FOGASA:                   0,20 %     3,55 €
+║   Cotización por horas extra:      200,00 €     23,60 %    47,20 €
+║                                                                 
+║                                                           Total: 188,00 €
+╚═══════════════════════════════════════════════╝
